@@ -65,4 +65,4 @@ A web-based application that extracts news articles for a company using the GNew
 - Select a language (English or Hindi) from the sidebar.
 - Click "Analyze" to fetch and display articles.
 - Use "Read Aloud" to hear article summaries and final sentiment.
-- Use "Read Screen" to hear all visible text on the screen in the selected language.
+- Use "Read Screen" to hear all visible text on the screen in the selected languages.
