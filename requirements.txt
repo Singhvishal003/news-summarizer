@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+nltk
+textblob
+gtts
+streamlit
+fastapi
+uvicorn
+rake-nltk
+vaderSentiment
+yake
